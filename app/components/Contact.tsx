@@ -75,7 +75,7 @@ export default function Contact() {
                 </a>
 
                 <a
-                  href="https://linkedin.com/in/navadheer"
+                  href="https://www.linkedin.com/in/nayudu-navadheer-b27212414"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-4 rounded-2xl bg-slate-800/80 border border-slate-700/80 hover:border-brand-indigo hover:bg-slate-800 transition-all flex items-center gap-3 group"
@@ -85,7 +85,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <span className="text-[10px] font-bold text-slate-400 block">LinkedIn</span>
-                    <span className="text-xs font-bold text-white group-hover:text-brand-indigo">Navadheer</span>
+                    <span className="text-xs font-bold text-white group-hover:text-brand-indigo">Nayudu Navadheer</span>
                   </div>
                 </a>
               </div>
